@@ -1,0 +1,5 @@
+C:\Luciano programas\API-RestFull\src\Supermercado.API\obj\Debug\netcoreapp3.1\Supermecado.API.csprojAssemblyReference.cache
+C:\Luciano programas\API-RestFull\src\Supermercado.API\obj\Debug\netcoreapp3.1\Supermecado.API.AssemblyInfoInputs.cache
+C:\Luciano programas\API-RestFull\src\Supermercado.API\obj\Debug\netcoreapp3.1\Supermecado.API.AssemblyInfo.cs
+C:\Luciano programas\API-RestFull\src\Supermercado.API\obj\Debug\netcoreapp3.1\Supermecado.API.csproj.CoreCompileInputs.cache
+C:\Luciano programas\API-RestFull\src\Supermercado.API\obj\Debug\netcoreapp3.1\Supermecado.API.MvcApplicationPartsAssemblyInfo.cache
